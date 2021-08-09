@@ -273,7 +273,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false #소요시간
+      show_date : true #포스팅 날짜
+      comments:  true #댓글
       share: true
       related: true
