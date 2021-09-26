@@ -3,9 +3,9 @@ title: "GitHub 블로그 참조용 사이트"
 excerpt: "설치하고 사용하는데에 유용해 보이는 사이트"
 
 categories:
-  - Sites
+- Sites
 tags: 
-  - git pages, github blog
+- git pages, github blog
 last_modified_at: 2021-07-24
 ---
 ##### https://ansohxxn.github.io/
