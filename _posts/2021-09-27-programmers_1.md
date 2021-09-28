@@ -1,5 +1,5 @@
 ---
-title: "[Level 1]음양 더하기"
+title: "[Level 1] 음양 더하기"
 excerpt: "음양 더하기"
 
 categories:
@@ -31,7 +31,7 @@ signs가 불린형이 아니였으면 더했을텐데, 불린형이라 매번 �
 오늘의 코테는 간단한 걸로 끝내기
 
 
-```
+```java
 class Solution {
     public int solution(int[] absolutes, boolean[] signs) {
         int answer = 0;
