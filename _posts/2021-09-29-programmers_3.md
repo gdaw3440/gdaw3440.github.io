@@ -1,5 +1,5 @@
 ---
-title: "[Level 1] 내적
+title: "[Level 1] 내적"
 excerpt: "내적"
 
 categories:
