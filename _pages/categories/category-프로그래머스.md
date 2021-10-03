@@ -1,5 +1,5 @@
 ---
-title: "Chunking"
+title: "프로래머스"
 layout: archive
 permalink: categories/프로그래머스
 author_profile: true
