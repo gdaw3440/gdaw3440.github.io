@@ -1,11 +1,11 @@
 ---
-title: "Chunking"
+title: "프로그래머스"
 layout: archive
-permalink: categories/chunking
+permalink: categories/programmers
 author_profile: true
 sidebar_main: true
 ---
 
-
-{% assign posts = site.categories.Cpp %}
+{% assign posts = site.programmers.Cpp %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+
