@@ -1,7 +1,7 @@
 ---
-title: "프로그래머스"
+title: "Chunking"
 layout: archive
-permalink: categories/programmers
+permalink: categories/Chunking
 author_profile: true
 sidebar_main: true
 ---

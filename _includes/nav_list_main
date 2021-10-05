@@ -17,16 +17,16 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Chunking" %}
-                        <li><a href="/categories/chunking" class="">청킹포인트 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Chunking" class="">청킹포인트 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
-    
+
             <span class="nav__sub-title">Brief</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Brief" %}
-                        <li><a href="/categories/brief" class="">Brief ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Brief" class="">Brief ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

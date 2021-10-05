@@ -1,7 +1,7 @@
 ---
 title: "Brief"
 layout: archive
-permalink: categories/brief
+permalink: categories/Brief
 author_profile: true
 sidebar_main: true
 ---
