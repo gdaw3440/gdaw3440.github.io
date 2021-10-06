@@ -1,9 +1,9 @@
 ---
-title: "서버 강제 종료 cmd"
+title: "Brief] 서버 강제 종료 cmd"
 excerpt: "간혹 서버 종료가 되지 않을 경우 사용하면 유용하다."
 
 categories:
-- brief
+- Brief
 tags:
 - 강제종료, taskkill
 last_modified_at: 2021-07-24
