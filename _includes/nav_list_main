@@ -23,22 +23,22 @@
             </ul>
         </span>
 
-            <span class="nav__sub-title">Brief</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Brief" %}
-                        <li><a href="/categories/Brief" class="">Brief ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "프로그래머스" %}
-                        <li><a href="/categories/프로그래머스" class="">프로그래머스 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            </span>
+        <span class="nav__sub-title">Brief</span>
+        <ul>
+            {% for category in site.categories %}
+                {% if category[0] == "Brief" %}
+                    <li><a href="/categories/Brief" class="">Brief ({{category[1].size}})</a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+        <ul>
+            {% for category in site.categories %}
+                {% if category[0] == "프로그래머스" %}
+                    <li><a href="/categories/프로그래머스" class="">프로그래머스 ({{category[1].size}})</a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+        </span>
       </li>
   </ul>
 </nav>
